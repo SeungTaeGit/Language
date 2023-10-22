@@ -13,11 +13,19 @@
 
 ### enum 정의하는 방법
 ---
+  - .
+
+  **유형**
+  **For example**
 <br>
 
 
 ### enum이 제공하는 메소드 (values()와 valueOf())
 ---
+
+  #### values()
+
+  #### valueOf()
 <br>
 
 
