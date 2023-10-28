@@ -13,10 +13,29 @@
 
 ### enum 정의하는 방법
 ---
-  - .
+  #### Enum
+  - Enumeration (열거체).
+  - 관련 있는 상수 집합의 정의. (관련 상수를 편리학 정의 및 사용을 위함.)
+  - 정의된 값 이외의 값은 허용하지 않는다.
+  - 클래스 정의와 비슷한 방법으로 정의한다.
+  - 클래스 정의의 `class` 대신 `enum` 키워드 사용하여 열거체 정의.
 
   **유형**
+  ```java
+  접근제어자 enum Enum클래스명 {
+    // 상수 집합
+  }
+  ```
+
   **For example**
+  ```java
+  public enum RobotEnum {
+    Gipsy Danger, Striker Eureka, Cherno Alpha, Crimson Typhoon;
+  ]
+  ```
+
+  #### Enum 정의
+  
 <br>
 
 
