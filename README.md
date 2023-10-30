@@ -23,6 +23,3 @@
 ### Python
 ---
 <br>
-
-### Javascript
----
