@@ -134,12 +134,18 @@
 
 ### java.lang.Enum
 ---
-  - .
+  - 모든 자바 열거체의 공통된 조상 클래스.
+  - 열거체 조작을 위한 다양한 메소드 포함. (values(), valueOf() ordinal() 등)
+  - 모든 Enum 클래스는 `java.lang.Enum`클래스를 상속받는다.
+> `다중 상속` 불가.
 <br>
 
 
 ### EnumMap
 ---
+  #### HashMap
+
+  #### EnumMap 사용
 <br>
 
 
